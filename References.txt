@@ -1,0 +1,8 @@
+Reference:
+https://stats.stackexchange.com/questions/144439/applying-pca-to-test-data-for-classification-purposes
+http://scikit-learn.org/stable/tutorial/statistical_inference/putting_together.html
+https://www.analyticsvidhya.com/blog/2015/06/tuning-random-forest-model/
+https://www.civisanalytics.com/blog/workflows-in-python-using-pipeline-and-gridsearchcv-for-more-compact-and-comprehensive-code/
+https://www.analyticsvidhya.com/blog/2017/09/understaing-support-vector-machine-example-code/
+http://scikit-learn.org/stable/modules/generated/sklearn.model_selection.StratifiedShuffleSplit.html
+https://developers.google.com/machine-learning/crash-course/classification/precision-and-recall
